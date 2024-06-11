@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: rag-test
+Version: 0.0.1
+Summary: first rag project
+Author: Andy Whitworth
+Author-email: 
+License: AW Data Analytics
+Requires-Dist: pytest
+Requires-Dist: pylint
+Requires-Dist: ipdb
+Requires-Dist: jupyterlab
+Requires-Dist: notebook
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: matplotlib

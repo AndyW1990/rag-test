@@ -1,0 +1,8 @@
+README.md
+setup.py
+rag_test.egg-info/PKG-INFO
+rag_test.egg-info/SOURCES.txt
+rag_test.egg-info/dependency_links.txt
+rag_test.egg-info/not-zip-safe
+rag_test.egg-info/requires.txt
+rag_test.egg-info/top_level.txt
